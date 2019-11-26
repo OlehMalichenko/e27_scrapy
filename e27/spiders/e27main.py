@@ -5,9 +5,6 @@ from e27.gclient import Gclient
 from pprint import pprint
 import random
 
-# =============!!!!!!!!!!!!!!!   RANDOM   !!!!!!!!!!!!!================== #
-
-# =============!!!!!!!!!!!!!!!   git hub   !!!!!!!!!!!!!================== #
 
 class E27TttSpider(scrapy.Spider):
 
